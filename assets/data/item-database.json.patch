@@ -1,0 +1,31 @@
+[
+    {
+        "type": "ENTER",
+        "index": "items"
+    },
+    {
+        "type":"ADD_ARRAY_ELEMENT",
+        "content":{
+            "name":{"en_US":"Pesky Parrot",
+                    "langUid":0},
+            "description":{"en_US":"A small parrot who follows you around copying everything you say! Pesky bird!",
+                            "langUid":1},
+            "type": "TOGGLE",
+            "order":5482,
+            "rarity": 0,
+            "cost": 1000,
+            "level": 1,
+            "icon": "item-toggle",
+            "noTrack": true,
+            "effect": {
+                "sheet": "drops",
+                "name": "circle"
+            },
+            "isScalable": false,
+            "customItem":"pet-parrot-toggle"
+        }
+    },
+    {
+        "type": "EXIT"
+    }
+]

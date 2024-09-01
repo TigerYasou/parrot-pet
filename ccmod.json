@@ -1,0 +1,31 @@
+{
+	"id": "parrot-pet",
+	"version": "1.0.0",
+	"title": {
+		"en_US": "Pet Parrot!",
+		"de_DE": "Pet Parrot!",
+		"fr_FR": "Pet Parrot!",
+		"zh_CN": "Pet Parrot!",
+		"zh_TW": "Pet Parrot!",
+		"ja_JP": "Pet Parrot!",
+		"ko_KR": "Pet Parrot!"
+	},
+	"description": {
+		"en_US": "Adds a new pet parrot you can find in gaia's garden using unused assets. ",
+		"de_DE": "Adds a new pet parrot you can find in gaia's garden using unused assets. ",
+		"fr_FR": "Adds a new pet parrot you can find in gaia's garden using unused assets. ",
+		"zh_CN": "Adds a new pet parrot you can find in gaia's garden using unused assets. ",
+		"zh_TW": "Adds a new pet parrot you can find in gaia's garden using unused assets. ",
+		"ja_JP": "Adds a new pet parrot you can find in gaia's garden using unused assets. ",
+		"ko_KR": "Adds a new pet parrot you can find in gaia's garden using unused assets. "
+	},
+
+	"icons":{
+        "24":"icon.png"
+    },
+	"authors":["TigerYasou"],
+	"tags":["cosmetic","fun"],
+	"dependencies": {
+		"item-api":">=0.4.5"
+	}
+}

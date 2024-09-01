@@ -1,0 +1,25 @@
+[
+    {
+        "type": "ENTER",
+        "index": "entities"
+    },
+    {
+        "type":"ADD_ARRAY_ELEMENT",
+        "content":{
+            "type": "Chest",
+            "x":1121,
+            "y":732,
+            "level":2,
+            "settings": {
+                "name": "",
+                "chestType": "Default",
+                "item": "pet-parrot-toggle",
+                "amount": 1,
+                "mapId": 900
+            }
+        }
+    },
+    {
+        "type": "EXIT"
+    }
+]

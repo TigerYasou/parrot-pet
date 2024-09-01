@@ -20,6 +20,7 @@
 		"ko_KR": "Adds a new pet parrot you can find in gaia's garden using unused assets. "
 	},
 
+	"repository":"https://github.com/TigerYasou/parrot-pet",
 	"icons":{
         "24":"icon.png"
     },
